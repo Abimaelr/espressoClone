@@ -14,10 +14,16 @@ module.exports = {
       black: '#000000',
       white:'#FFF',
       yellow: '#dff755',
+      bodyGradient: {
+        from: '#09080d',
+        to: '#09080d'
+      },
       blue: {
         light: '#85d7ff',
         DEFAULT: '#1fb6ff',
         dark: '#009eeb',
+        gradI: "#3d8fb0",
+        gradF: '#2e4452',
       },
       pink: {
         light: '#ff7ce5',
@@ -42,6 +48,7 @@ module.exports = {
       hero: '80%',
       icon: '64px',
       btn: '60px',
+      section: '720px',
      },
      width: {
       screen: '100vh',
