@@ -16,7 +16,7 @@ module.exports = {
       yellow: '#dff755',
       bodyGradient: {
         from: '#09080d',
-        to: '#09080d'
+        to: '#141822'
       },
       blue: {
         light: '#85d7ff',
@@ -53,12 +53,13 @@ module.exports = {
      width: {
       screen: '100vh',
       full: '100%',
+      section: '70%',
       middle: '50%',
       sm: '8px',
       md: '16px',
       lg: '24px',
       xl: '48px',
-      featuresText: '85%',
+      featuresText: '100%',
       card: '320px',
       heroText: '350px',
       hero: '80%',
