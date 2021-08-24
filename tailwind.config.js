@@ -62,6 +62,7 @@ module.exports = {
       xl: '48px',
       featuresText: '100%',
       card: '320px',
+      smallCard: '250px',
       heroText: '350px',
       hero: '80%',
       minContent: 'min-content',
