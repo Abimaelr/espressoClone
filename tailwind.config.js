@@ -61,7 +61,7 @@ module.exports = {
       lg: '24px',
       xl: '48px',
       featuresText: '100%',
-      card: '300px',
+      card: '320px',
       heroText: '350px',
       hero: '80%',
       minContent: 'min-content',
@@ -79,7 +79,7 @@ module.exports = {
       '16': '4rem',
     },
     fontFamily: {
-      'sans': 'Sofia Pro, Arial, sans-serif',
+     'sans' : 'Sofia Pro, sans-serif',
     }
   },
   variants: {},
