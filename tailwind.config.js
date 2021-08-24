@@ -40,6 +40,7 @@ module.exports = {
     },
     height: {
       screen: '100vh',
+      footer: '80vh',
       full: '100%',
       sm: '8px',
       md: '16px',
@@ -67,6 +68,7 @@ module.exports = {
       maxContent: 'max-content',
       auto: "auto",
       btn: '200px',
+      icon: '100px',
      },
     backgroundSize: {
       'auto': 'auto',
