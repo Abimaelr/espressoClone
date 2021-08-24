@@ -77,6 +77,9 @@ module.exports = {
       '80%': '80%',
       '50%': '50%',
       '16': '4rem',
+    },
+    fontFamily: {
+      'sans': 'Sofia Pro, Arial, sans-serif',
     }
   },
   variants: {},
